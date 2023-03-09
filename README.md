@@ -6,6 +6,7 @@ In this challenge, we are given data on the Citi bike system in New York. We can
 
 ### Checkout Times for Users
 ![Checkout Times for Users.pngs](Images/Checkout Times for Users.png)
+![Checkout Times for Users](Images/Checkout Times for Users.png)
 
 With this visualization we are able to see how long users checkout bikes for. It shows a large spike and a huge drop off before the 20-minute mark. This shows that most users do not rent the bikes for very long.
 
