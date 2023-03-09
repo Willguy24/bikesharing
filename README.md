@@ -4,7 +4,7 @@ In this challenge, we are given data on the Citi bike system in New York. We can
 
 My Tableau Story can be found here.
 
-[link to dashboard](https://public.tableau.com/app/profile/will.b7668/viz/CitibikeTableauChallenge_16783192662920/Story2?publish=yes)
+[Tableau](https://public.tableau.com/app/profile/will.b7668/viz/CitibikeTableauChallenge_16783192662920/Story2?publish=yes)
 
 ## Results
 
