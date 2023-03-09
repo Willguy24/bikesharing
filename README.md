@@ -2,6 +2,8 @@
 
 In this challenge, we are given data on the Citi bike system in New York. We can then use Tableau to visualize the data in meaningful ways.
 
+My Tableau Story can be found ![Here.](https://public.tableau.com/app/profile/will.b7668/viz/CitibikeTableauChallenge_16783192662920/Story2?publish=yes)
+
 ## Results
 
 ### Checkout Times for Users
